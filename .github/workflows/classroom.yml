@@ -19,7 +19,7 @@ jobs:
       with:
         test-name: test_1
         setup-command: ''
-        command: "./test.sh"
+        command: "bash test.sh"
         input: 6 7
         expected-output: '13'
         comparison-method: contains
