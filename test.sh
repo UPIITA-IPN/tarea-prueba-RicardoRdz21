@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 suma.py 6 7
+python3 test.py 6 7
